@@ -1,5 +1,4 @@
-  Tamim Dari Chowdhury
-====================
+ <title>Tamim Dari</title>
 
 
 ### Hi there 👋
