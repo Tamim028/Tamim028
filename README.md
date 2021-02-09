@@ -2,7 +2,7 @@
 ====================
 
 
-### Hi there 👋
+### Hello visitor 👋
 
 - 🔭 I’m currently working on Competitive Programming.
 - 🌱 I’m currently learning Java.
